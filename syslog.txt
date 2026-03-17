@@ -1,0 +1,5 @@
+ERROR Failed login
+INFO User logged in
+WARNING Disk low
+ERROR Database failed
+INFO Backup completeERROR Server Crashed
